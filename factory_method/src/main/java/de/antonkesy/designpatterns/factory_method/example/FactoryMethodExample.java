@@ -1,6 +1,6 @@
 package de.antonkesy.designpatterns.factory_method.example;
 
-import de.antonkesy.designpatterns.factory_method.factory_method.creator.ConcreteCreator;
+import de.antonkesy.designpatterns.factory_method.pattern.creator.ConcreteCreator;
 
 public class FactoryMethodExample {
     public static void main(String[] args) {

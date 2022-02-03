@@ -1,4 +1,4 @@
-package de.antonkesy.designpatterns.factory_method.factory_method.product;
+package de.antonkesy.designpatterns.factory_method.pattern.product;
 
 public class ConcreteProduct implements IProduct {
 

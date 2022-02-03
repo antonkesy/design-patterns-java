@@ -1,7 +1,7 @@
-package de.antonkesy.designpatterns.example;
+package de.antonkesy.designpatterns.adapter.example;
 
-import de.antonkesy.designpatterns.adapter.Adapter;
-import de.antonkesy.designpatterns.adapter.Context;
+import de.antonkesy.designpatterns.adapter.pattern.Adapter;
+import de.antonkesy.designpatterns.adapter.pattern.Context;
 
 public class AdapterExample {
     public static void main(String[] args) {

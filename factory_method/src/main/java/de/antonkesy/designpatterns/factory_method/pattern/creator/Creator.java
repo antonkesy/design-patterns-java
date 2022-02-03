@@ -1,6 +1,6 @@
-package de.antonkesy.designpatterns.factory_method.factory_method.creator;
+package de.antonkesy.designpatterns.factory_method.pattern.creator;
 
-import de.antonkesy.designpatterns.factory_method.factory_method.product.IProduct;
+import de.antonkesy.designpatterns.factory_method.pattern.product.IProduct;
 
 public abstract class Creator {
     private IProduct product;

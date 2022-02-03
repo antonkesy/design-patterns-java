@@ -1,4 +1,4 @@
-package de.antonkesy.designpatterns.adapter;
+package de.antonkesy.designpatterns.adapter.pattern;
 
 public class Adaptee {
     public void specificRequest() {
