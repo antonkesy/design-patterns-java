@@ -18,6 +18,7 @@
         <module>state</module>
         <module>decorator</module>
         <module>composite</module>
+        <module>command</module>
     </modules>
 
     <properties>
